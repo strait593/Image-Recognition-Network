@@ -1,0 +1,7 @@
+data
+trainLabels.csv
+sampleSubmission.csv
+test.7z
+train.7z
+.venv
+Notebooks/*
