@@ -5,3 +5,5 @@ test.7z
 train.7z
 .venv
 Notebooks/*
+.gitattributes
+.gitignore
